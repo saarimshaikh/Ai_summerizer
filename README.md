@@ -12,6 +12,9 @@
 ## Tool
 - Visual Studio Code
 
+## ScreenShot
+![Screenshot (621)](https://github.com/saarimshaikh/Ai_summerizer/assets/65160026/d858f63e-7274-428c-bf9e-db19330b2945)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
