@@ -15,6 +15,9 @@
 ## ScreenShot
 ![Screenshot (621)](https://github.com/saarimshaikh/Ai_summerizer/assets/65160026/d858f63e-7274-428c-bf9e-db19330b2945)
 
+## Video demo
+https://github.com/saarimshaikh/Ai_summerizer/assets/65160026/c3388cc1-a50d-4879-a0d9-6a73718c10fb
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
